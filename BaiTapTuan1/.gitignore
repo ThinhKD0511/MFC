@@ -1,0 +1,17 @@
+.vs/
+x64/
+Win32/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.obj
+*.pch
+*.ilk
+*.log
+*.tlog/
+HelloWorld.txt
+obj/

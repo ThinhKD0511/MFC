@@ -1,0 +1,31 @@
+# Visual Studio cache and personal settings
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+
+# Intermediate files and resource editor cache
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.exe
+*.res

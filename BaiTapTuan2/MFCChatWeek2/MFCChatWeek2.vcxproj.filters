@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files"><UniqueIdentifier>{D22E5A0D-8B29-4FA5-A7B8-75DAD81832CA}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files"><UniqueIdentifier>{2C5AD9F9-86CE-4C96-A15B-A97490B13972}</UniqueIdentifier></Filter>
+    <Filter Include="Resource Files"><UniqueIdentifier>{4DA15F3C-9701-4328-94CB-A04BDB4BD4C4}</UniqueIdentifier></Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AuthDialogs.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="ChatDlg.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="FakeData.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="MFCChatWeek2.cpp"><Filter>Source Files</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AuthDialogs.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="ChatDlg.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="FakeData.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="WinHelpers.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="framework.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="resource.h"><Filter>Header Files</Filter></ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCChatWeek2.rc"><Filter>Resource Files</Filter></ResourceCompile>
+  </ItemGroup>
+</Project>
