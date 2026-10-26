@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.ilk
+*.pch
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+
+# Visual Studio generated files
+*.aps
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
