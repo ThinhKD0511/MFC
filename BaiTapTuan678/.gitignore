@@ -1,0 +1,36 @@
+# Bỏ qua thư mục kiểm thử ChatTestClient
+ChatTestClient/
+
+# Thư mục cấu hình ẩn của Visual Studio
+.vs/
+
+# Thư mục build nhị phân và file biên dịch
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# File rác sinh ra trong quá trình Build
+*.obj
+*.ilk
+*.pdb
+*.pch
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# File cấu hình cá nhân của từng máy
+*.user
+*.aps
+*.suo
+*.db-shm
+*.db-wal
+
+# Cơ sở dữ liệu SQLite sinh ra khi chạy
+*.db
+*.sqlite
+*.sqlite3
+
